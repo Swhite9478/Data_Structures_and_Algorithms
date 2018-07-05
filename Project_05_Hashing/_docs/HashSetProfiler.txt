@@ -1,0 +1,35 @@
+Time Taken to find a total of 100,000 items 10x in a Hash Set:
+	It took 60118207 nanoseconds
+	It took 35165287 nanoseconds
+	It took 34610668 nanoseconds
+	It took 6066218 nanoseconds
+	It took 6919625 nanoseconds
+	It took 6422787 nanoseconds
+	It took 8767849 nanoseconds
+	It took 6781636 nanoseconds
+	It took 8343616 nanoseconds
+	It took 8756444 nanoseconds
+
+Time Taken to find a total of 200,000 items 10x in a Hash Set:
+	It took 110936375 nanoseconds
+	It took 4387915 nanoseconds
+	It took 4665796 nanoseconds
+	It took 4903761 nanoseconds
+	It took 4553655 nanoseconds
+	It took 4332035 nanoseconds
+	It took 4240422 nanoseconds
+	It took 6479807 nanoseconds
+	It took 4299344 nanoseconds
+	It took 5233339 nanoseconds
+
+Time Taken to find a total of 300,000 items 10x in a Hash Set:
+	It took 18318398 nanoseconds
+	It took 6147187 nanoseconds
+	It took 6118297 nanoseconds
+	It took 7573079 nanoseconds
+	It took 12772586 nanoseconds
+	It took 8199544 nanoseconds
+	It took 6198886 nanoseconds
+	It took 6595748 nanoseconds
+	It took 8738198 nanoseconds
+	It took 8706647 nanoseconds

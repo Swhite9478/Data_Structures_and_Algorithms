@@ -1,0 +1,35 @@
+Time Taken to find a total of 100,000 items 10x in a Hash Map:
+	It took 83268900 nanoseconds
+	It took 80021775 nanoseconds
+	It took 121218687 nanoseconds
+	It took 42816294 nanoseconds
+	It took 36244874 nanoseconds
+	It took 35811520 nanoseconds
+	It took 40284966 nanoseconds
+	It took 33077958 nanoseconds
+	It took 37530116 nanoseconds
+	It took 61931839 nanoseconds
+
+Time Taken to find a total of 200,000 items 10x in a Hash Map:
+	It took 88705992 nanoseconds
+	It took 84722542 nanoseconds
+	It took 108768456 nanoseconds
+	It took 75985105 nanoseconds
+	It took 86596235 nanoseconds
+	It took 98482723 nanoseconds
+	It took 95877648 nanoseconds
+	It took 98120833 nanoseconds
+	It took 140509094 nanoseconds
+	It took 107667581 nanoseconds
+
+Time Taken to find a total of 300,000 items 10x in a Hash Map:
+	It took 185114691 nanoseconds
+	It took 134859886 nanoseconds
+	It took 137420105 nanoseconds
+	It took 125874979 nanoseconds
+	It took 127493220 nanoseconds
+	It took 138323309 nanoseconds
+	It took 128963969 nanoseconds
+	It took 156623081 nanoseconds
+	It took 138583323 nanoseconds
+	It took 150669762 nanoseconds
